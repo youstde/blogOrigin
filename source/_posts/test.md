@@ -1,0 +1,78 @@
+---
+title: 移动端音频，视频问题
+date: 2016-11-22 14:09:06
+Tags:
+---
+
+### 音频
+
+1.给document绑定一个touchstart事件，当用户滑动屏幕的时候，触发音频的播放
+
+2.但是如果不使用jQuery，也可以给document绑定一个click事件，这样也就解决了
+
+```javascript
+//使用jQuery中的one方法进行事件绑定
+var autoplay = function(){
+	document.getElementById('media').load();
+	document.getElementById('media').play();
+}
+$(document).one("touchstart",autoplay);
+```
+
+### 视频
+
+1.同样也是给document绑定一个touchstart事件，当用户有操作的时候触发播放
+
+2.之所以是这样是因为iOS系统有个保护机制，禁止自动播放音频，视频，从而保护用户的流量
+
+### 去除视频在iOS环境下自动全屏
+
+只需要给video添加一个webkit-playsinline = ‘true’属性即可
+
+### 视频添加poster
+
+1.可以使用原生的poster属性添加，但是这个在Android手机上兼容有问题
+
+2.在video上放个遮盖层，用来放poster
+
+## html
+
+```html
+ <div class="mian">
+    <video src="./testaudio.mp4" id = 'st' webkit-playsinline="true" controls></video>
+    <div class = 'poster'></div>
+  </div>
+```
+
+## JS
+
+```javascript
+//其中时间监听最好是使用jQuery中的one进行绑定，从而执行一次便失效，而且不会存在问题  
+var ss = document.getElementById( 'st' );
+  document.addEventListener( 'touchstart', function(){
+    document.querySelector('.poster').style.display = 'none';
+    ss.style.width = '100%';
+    ss.play();
+  } )
+```
+
+## Css
+
+```css
+#st {
+    width: 1px;
+    height: 100%;
+  }
+    .main {
+      position: relative;
+    }
+    .poster {
+      width: 100%;
+      height: 200px;
+      background: url( './poster.jpeg' ) no-repeat center / 100% 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+```
+

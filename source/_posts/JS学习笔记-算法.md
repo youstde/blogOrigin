@@ -178,3 +178,27 @@ setInterval(function(){
 },1000)
 ```
 
+**7.利用一个for循环找出一个数组中第二大的数**
+
+> 输入 ： [1, 3, 6, 4, 8, 23, 54, 11]
+>
+> 输出：23
+
+```javascript
+function getSecond(arr) {
+        var largestNum = arr[0] > arr[1]? arr[0] : arr[1];
+        var secondNum = arr[0] <= arr[1]? arr[0] : arr[1];
+        for(var i =2; i< arr.length; i++) {
+            if(arr[i] > largestNum) {
+                secondNum = largestNum;
+                largestNum = arr[i];
+            }else if(arr[i] > secondNum) {
+                secondNum = arr[i];
+            }
+        }
+        return secondNum;
+    }
+
+    console.log(getSecond([1, 3, 6, 4, 8, 23, 54, 11]));
+```
+

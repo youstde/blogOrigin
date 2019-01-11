@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ec9cee9-749d-4bd4-ba0b-d3350b30befd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apollo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apollo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apollo/layout/partial/scripts.jade" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apollo/layout/partial/scripts.jade" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apollo/layout/post.jade" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apollo/layout/post.jade" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apollo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apollo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apollo/source/css/apollo.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apollo/source/css/apollo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apollo/source/scss/_partial/archive-post-list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apollo/source/scss/_partial/archive-post-list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apollo/source/scss/_partial/base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apollo/source/scss/_partial/base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apollo/source/scss/_partial/copyright.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apollo/source/scss/_partial/copyright.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apollo/source/scss/_partial/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apollo/source/scss/_partial/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apollo/source/scss/_partial/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apollo/source/scss/_partial/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apollo/source/scss/_partial/home-post-list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apollo/source/scss/_partial/home-post-list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apollo/source/scss/_partial/mq.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apollo/source/scss/_partial/mq.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apollo/source/scss/_partial/normalize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apollo/source/scss/_partial/normalize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apollo/source/scss/_partial/post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apollo/source/scss/_partial/post.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apollo/source/scss/apollo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apollo/source/scss/apollo.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/Gruntfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/languages/en.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/languages/en.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/layout/about.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/layout/about.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/layout/archive.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/layout/archive.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/layout/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/layout/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/layout/mixins/paginator.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/layout/mixins/paginator.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/layout/mixins/post.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/layout/mixins/post.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/layout/partial/article.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/layout/partial/article.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/layout/partial/comment.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/layout/partial/comment.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/layout/partial/copyright.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/layout/partial/copyright.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/layout/partial/head.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/layout/partial/head.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/layout/partial/layout.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/layout/partial/layout.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/layout/partial/nav.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/layout/partial/nav.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/layout/partial/scripts.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/layout/partial/scripts.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/layout/post.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/layout/post.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/layout/tag.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/layout/tag.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/layout/tags.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/layout/tags.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/source/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/source/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/source/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/source/css/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/source/css/theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/source/css/theme.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/source/font/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/source/font/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/archive-post-list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/archive-post-list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/copyright.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/copyright.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/highlight.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/highlight.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/home-post-list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/home-post-list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/mq.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/mq.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/normalize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/normalize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/source/scss/_partial/post.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artemisX/source/scss/theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/artemisX/source/scss/theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/languages/default.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/languages/default.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/languages/fr.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/languages/fr.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/languages/nl.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/languages/nl.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/languages/no.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/languages/no.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/languages/ru.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/languages/ru.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/languages/zh-CN.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/languages/zh-CN.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/languages/zh-TW.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/languages/zh-TW.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/layout/_partial/google-analytics.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/layout/_partial/google-analytics.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/layout/_partial/head.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/layout/_partial/head.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/layout/_partial/list.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/layout/_partial/list.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/layout/_partial/menu.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/layout/_partial/menu.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/layout/_partial/photoswipe.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/layout/_partial/photoswipe.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/layout/_partial/post/article.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/layout/_partial/post/article.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/layout/_partial/post/gitalk.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/layout/_partial/post/gitalk.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/layout/_partial/post/header.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/layout/_partial/post/header.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/layout/_partial/post/item.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/layout/_partial/post/item.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/layout/_partial/post/tag.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/layout/_partial/post/tag.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/layout/_partial/screen.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/layout/_partial/screen.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/layout/_partial/scripts.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/layout/_partial/scripts.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/layout/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/layout/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/layout/layout.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/layout/layout.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/layout/page.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/layout/page.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/layout/post.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/layout/post.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/layout/tag.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/layout/tag.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/source/css/diaspora.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/source/css/diaspora.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/source/js/diaspora.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/source/js/diaspora.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/source/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/source/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/source/js/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/source/js/plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/source/photoswipe/default-skin/default-skin.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/source/photoswipe/default-skin/default-skin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/source/photoswipe/photoswipe-ui-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/source/photoswipe/photoswipe-ui-default.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/source/photoswipe/photoswipe-ui-default.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/source/photoswipe/photoswipe-ui-default.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/source/photoswipe/photoswipe.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/source/photoswipe/photoswipe.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/source/photoswipe/photoswipe.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/source/photoswipe/photoswipe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/diaspora/source/photoswipe/photoswipe.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/diaspora/source/photoswipe/photoswipe.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/css/_partial/_header/_menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_partial/_header/_menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/css/_partial/_iconfont.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_partial/_iconfont.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/css/_partial/_mobile.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_partial/_mobile.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/css/_partial/_nprogress.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_partial/_nprogress.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/css/_partial/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_partial/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/css/_partial/_post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_partial/_post.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/css/_partial/_post/_code.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_partial/_post/_code.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/css/_partial/_post/_content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_partial/_post/_content.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/css/_partial/_post/_copyright.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_partial/_post/_copyright.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/css/_partial/_post/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_partial/_post/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/css/_partial/_post/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_partial/_post/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/css/_partial/_post/_reward.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_partial/_post/_reward.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/css/_partial/_post/_toc.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_partial/_post/_toc.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/css/_partial/_slideout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_partial/_slideout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/css/_partial/_tags.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_partial/_tags.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/css/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/fonts/chancery/apple-chancery-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/fonts/chancery/apple-chancery-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/js/src/even.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/js/src/even.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/lib/fancybox/helpers/jquery.fancybox-buttons.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/lib/fancybox/helpers/jquery.fancybox-buttons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/lib/fancybox/helpers/jquery.fancybox-buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/lib/fancybox/helpers/jquery.fancybox-buttons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/lib/fancybox/helpers/jquery.fancybox-media.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/lib/fancybox/helpers/jquery.fancybox-media.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/lib/fancybox/helpers/jquery.fancybox-thumbs.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/lib/fancybox/helpers/jquery.fancybox-thumbs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/lib/fancybox/helpers/jquery.fancybox-thumbs.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/lib/fancybox/helpers/jquery.fancybox-thumbs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/lib/fancybox/jquery.fancybox.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/lib/fancybox/jquery.fancybox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/lib/fancybox/jquery.fancybox.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/lib/fancybox/jquery.fancybox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/lib/fancybox/jquery.fancybox.pack.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/lib/fancybox/jquery.fancybox.pack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/lib/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/lib/jquery/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/lib/pjax/jquery.pjax.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/lib/pjax/jquery.pjax.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/lib/slideout/slideout.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/lib/slideout/slideout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/even/source/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/themes/even/source/robots.txt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1209948651">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="yml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="YAML" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_config.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/themes/apollo/package.json" />
+      <path value="$PROJECT_DIR$/themes/artemisX/package.json" />
+      <path value="$PROJECT_DIR$/themes/even/package.json" />
+      <path value="$PROJECT_DIR$/themes/landscape/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-18" />
+    <option name="y" value="-17" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="blogOrigin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogOrigin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ec9cee9-749d-4bd4-ba0b-d3350b30befd" name="Default Changelist" comment="" />
+      <created>1547195738555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547195738555</updated>
+      <workItem from="1547195740677" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

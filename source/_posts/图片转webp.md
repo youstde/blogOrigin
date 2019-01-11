@@ -60,3 +60,54 @@ tags:
 2.请求时间也会减少将近80%
 
 3.图片不会失真
+
+#### 问题
+
+原图：<http://batchtest.oss-cn-hangzhou.aliyuncs.com/example3.png>
+
+处理之后：<http://batchtest.oss-cn-hangzhou.aliyuncs.com/example3.png?x-oss-process=image/format,webp>
+
+这里的示例是一个PNG转WEBP，原图大小为760字节，处理之后变成了1.3K。
+
+首先还是使用identify工具查看两者的差别。
+
+这是原图的：
+
+```
+  Format: PNG (Portable Network Graphics)
+  Mime type: image/png
+  Class: DirectClass
+  Geometry: 92x34+0+0
+  Units: Undefined
+  Type: GrayscaleAlpha
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    gray: 8-bit
+    alpha: 8-bit
+```
+
+这是处理之后的：
+
+```
+  Format: PAM (Common 2-dimensional bitmap format)
+  Mime type: image/x-portable-pixmap
+  Class: DirectClass
+  Geometry: 92x34+0+0
+  Units: Undefined
+  Type: PaletteAlpha
+  Base type: TrueColor
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+    alpha: 8-bit
+```
+
+这里可以看出一个非常明显的区别，原图是灰度图带上了透明通道，而处理之后的图片是RGB再带上透明通道。
+
+原因是Webp并不支持灰度图带上透明通道这种类型，带上透明通道就将格式固定成了RGBA格式。因此导致了要保存的数据变大。

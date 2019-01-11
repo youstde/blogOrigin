@@ -86,7 +86,7 @@ cp -R test/* ssp   (将项目文件夹下的文件全部放到ssp文件夹下)
 ls
 cd ssp/
 ls
-cd ../ 
+cd ../
 ls
 rm -rf test/     (删除项目的解压包)
 ```
@@ -118,4 +118,3 @@ cd /etc/nginx/conf.d/
 ```
 scp -r * admin@robot.adbaitai.com:/home/admin/wx/
 ```
-
